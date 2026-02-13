@@ -1,4 +1,4 @@
 # kajal-sharma
 this is my first git repository
 <br>
-this is rule by me 
+this is rule by me kajal(this is me)
